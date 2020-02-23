@@ -6,7 +6,7 @@ Link to code done by the due date (old version): https://raw.githubusercontent.c
 
 Link to Repository: https://github.com/Dkigawa/Project-2-Meteorology-Instrument-Package 
 
-Read me URL:
+Unsure how to display Photos in read me, Look in report in repository for easier to read report
 
 Problem Statement:
 Predicting the weather is an important science for modern society. One way to predict and stud the method is to compare different meteorological parameters by measuring parameters at different locations in the ocean. We took measurements from two mooring platforms, referenced from here on as the Oregon Shelf Surface Mooring and Oregon Offshore Surface Mooring. With data measured we can see the correlation between the two stations and see if data measured from one station can help predict what will happen at the next. 
